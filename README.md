@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 B.Tech student<br><br>Software development intern<br><br>Developing desktop applications<br><br>Working with Internet of Things (IoT) systems<br><br>Interested in PLC and industrial automation<br><br>Focused on real-world automation solutions
 
 
