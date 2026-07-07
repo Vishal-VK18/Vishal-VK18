@@ -203,25 +203,12 @@ Applied ML and AI techniques to real-world educational technology projects.
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6B7280?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4B5563?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-374151?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-9CA3AF?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-VK18&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1e1e1e&title_color=D1D5DB&icon_color=9CA3AF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-VK18&theme=gruvbox&hide_border=true&background=1e1e1e&stroke=9CA3AF&ring=D1D5DB&fire=D1D5DB&currStreakLabel=D1D5DB" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal-VK18&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1e1e1e&title_color=D1D5DB&icon_color=9CA3AF&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Vishal-VK18&theme=gruvbox&hide_border=true&background=1e1e1e&stroke=9CA3AF&ring=D1D5DB&fire=D1D5DB&currStreakLabel=D1D5DB" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-VK18&layout=compact&theme=gruvbox&hide_border=true&bg_color=1e1e1e&title_color=D1D5DB&text_color=c9d1d9" width="49%"/>
 
@@ -298,6 +285,8 @@ Open To:
 ---
 
 <div align="center">
+
+*"Engineering isn't just about writing code — it's about building systems that solve real problems in the real world."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1F2937&height=150&section=footer"/>
 
