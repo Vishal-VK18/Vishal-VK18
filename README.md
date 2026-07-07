@@ -286,7 +286,6 @@ Open To:
 
 <div align="center">
 
-*"Engineering isn't just about writing code — it's about building systems that solve real problems in the real world."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1F2937&height=150&section=footer"/>
 
