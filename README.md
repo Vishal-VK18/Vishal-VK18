@@ -207,32 +207,12 @@ Applied ML and AI techniques to real-world educational technology projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-VK18&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1e1e1e&title_color=D1D5DB&icon_color=9CA3AF&text_color=c9d1d9&count_private=true" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Vishal-VK18&theme=gruvbox&hide_border=true&background=1e1e1e&stroke=9CA3AF&ring=D1D5DB&fire=D1D5DB&currStreakLabel=D1D5DB" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-VK18&layout=compact&theme=gruvbox&hide_border=true&bg_color=1e1e1e&title_color=D1D5DB&text_color=c9d1d9" width="49%"/>
 
 </div>
 
 ---
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal-VK18&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-VK18&theme=minimal&hide_border=true&bg_color=1e1e1e&color=9CA3AF&line=D1D5DB&point=E5E7EB" width="100%"/>
-
-</div>
 
 ---
 
